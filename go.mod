@@ -9,7 +9,7 @@ require (
 	github.com/google/uuid v1.1.3 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/karrick/godirwalk v1.16.1 // indirect
-	github.com/qri-io/jsonschema v0.1.1
+	github.com/qri-io/jsonschema v0.2.1
 	github.com/rogpeppe/go-internal v1.6.2 // indirect
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.3.0
